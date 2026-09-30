@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let id;
+id = 101;
+console.log("ID:", id);
+id = "EMP101";
+console.log("ID:", id);
+let status;
+status = true;
+console.log("STATUS:", status);
+status = "success";
+console.log("STATUS:", status);
